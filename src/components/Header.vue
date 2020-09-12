@@ -51,7 +51,6 @@
 </template>
 
 <script>
-import './header.css'
 import MyButton from './Button.vue'
 
 export default {
@@ -78,7 +77,7 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped>
+<style scoped>
 .wrapper {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);

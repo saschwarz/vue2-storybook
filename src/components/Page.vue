@@ -76,7 +76,6 @@
 </template>
 
 <script>
-import './page.css'
 import MyHeader from './Header.vue'
 
 export default {
@@ -103,7 +102,7 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped>
+<style scoped>
 section {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 14px;

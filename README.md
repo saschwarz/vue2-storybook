@@ -1,39 +1,49 @@
 # vue2-storybook
 
+Demo repo for lightening talk on using Vue 2 and Storybook 6.
+
 ## Project setup
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads web app for development
+
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies web app for production
+
 ```
 yarn run build
 ```
 
-### Run your tests
+### Run storybook
+
 ```
-yarn run test
+yarn run storybook
 ```
 
 ### Lints and fixes files
+
 ```
 yarn run lint
 ```
 
-### Run your end-to-end tests
+### Run end-to-end tests
+
 ```
 yarn run test:e2e
 ```
 
-### Run your unit tests
+### Run unit tests
+
 ```
 yarn run test:unit
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).

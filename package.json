@@ -21,6 +21,8 @@
     "@storybook/addon-essentials": "^6.0.21",
     "@storybook/addon-links": "^6.0.21",
     "@storybook/vue": "^6.0.21",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/vue": "^5.0.4",
     "@vue/cli-plugin-babel": "^4.5.0",
     "@vue/cli-plugin-e2e-cypress": "^4.5.0",
     "@vue/cli-plugin-eslint": "^4.5.0",

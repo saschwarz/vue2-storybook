@@ -20,6 +20,7 @@
     "@storybook/addon-actions": "^6.0.21",
     "@storybook/addon-essentials": "^6.0.21",
     "@storybook/addon-links": "^6.0.21",
+    "@storybook/addon-storyshots": "^6.0.21",
     "@storybook/vue": "^6.0.21",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/vue": "^5.0.4",

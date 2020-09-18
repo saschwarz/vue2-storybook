@@ -1,6 +1,10 @@
 # vue2-storybook
 
-Demo repo for lightening talk on using Vue 2 and Storybook 6.
+Demo repo for lightning talk on using Vue 2 and Storybook 6.
+
+View slides online: at https://nwcjs-vue2-storybook.netlify.app/#1
+
+Use space/arrow keys to navigate.
 
 ## Project setup
 
